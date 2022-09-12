@@ -1,5 +1,5 @@
 ## Setup
-1. Fork this task.
+1. Fork [this task](https://replit.com/@InstructorCODED/4-Functions#main.py).
 
 ## Task
 1. Create a function called `cube` that takes an argument called `number`.
