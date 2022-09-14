@@ -1,5 +1,11 @@
 ## Setup
-1. Fork [this task](https://replit.com/@InstructorCODED/4-Functions#main.py).
+
+1. Go to the [following link](https://replit.com/team/coded-instructor).
+2. Open the task **4. Functions**.
+3. Open `main.py` and solve the task.
+4. Once you're done click on the submit button.
+
+---
 
 ## Task
 1. Create a function called `cube` that takes an argument called `number`.
